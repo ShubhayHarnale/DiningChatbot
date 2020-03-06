@@ -37,14 +37,6 @@ def lambda_handler(event, context):
     
     total_count = response["hits"]["total"]["value"]
     
-    # for rest in response["hits"]["hits"][random.randrange(0, total_count-1)]:
-    #     table_response = table.query(KeyConditionExpression=Key('id').eq(rest["_id"]))
-    #     for i in table_response['Items']:
-    #         if counter > 3:
-    #             break
-    #         m = str(counter) + "." + str(i["name"]) + " located at " + str(i["address"]) + "\n"
-    #         message = message + m
-    #         counter = counter + 1
             
     while(counter < 4):
         rest = response["hits"]["hits"][random.randrange(0, total_count-1)]
