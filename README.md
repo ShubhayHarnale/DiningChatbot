@@ -8,9 +8,9 @@ This chatbot, dubbed "BATMAN", is designed to provide dining recommendations. Th
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
-> Bot: Hello there!
-> User: Hi
-> Bot: Hey there! How is it going?
+> Bot: Hello there!  
+> User: Hi  
+> Bot: Hey there! How is it going?  
 > User: I am hungry
 > Bot: I can help with that! What city are you looking to dine in?
 > User: New York
