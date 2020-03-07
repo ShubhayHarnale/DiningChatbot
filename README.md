@@ -28,7 +28,7 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 The User then receives the following text on his/her mobile phone:
 
-"Hello! Here are my Indian suggestions for 4 people, for 2020-03-07 at 19:00: 
+"Hello! Here are my Indian suggestions for 4 people, for 2020-03-07 at 19:00:    
 1.deep indian kitchen - indikitch located at 940 8th Ave  
 2.NY Dosas located at 50 Washington Sq S  
 3.Samossa Bites located at 35-27 31st St  
