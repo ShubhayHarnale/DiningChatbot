@@ -11,20 +11,20 @@ Markdown is a lightweight markup language based on the formatting conventions th
 > Bot: Hello there!  
 > User: Hi  
 > Bot: Hey there! How is it going?  
-> User: I am hungry
-> Bot: I can help with that! What city are you looking to dine in?
-> User: New York
-> Bot: What cuisine would you like to try today?
-> User: Indian
-> Bot: How many people are in your party?
-> User: 4
-> Bot: What date?
-> User: Tomorrow
-> Bot: At what time would you like to dine?
-> User: 7 PM
-> Bot: Lastly, I need your phone number so I can send you my findings.
-> User: 3473305867
-> Bot: You're all set! Indian cuisine suggestions at New York will be sent to your phone shortly. Have a great day!
+> User: I am hungry  
+> Bot: I can help with that! What city are you looking to dine in?  
+> User: New York  
+> Bot: What cuisine would you like to try today?  
+> User: Indian  
+> Bot: How many people are in your party?  
+> User: 4  
+> Bot: What date?  
+> User: Tomorrow  
+> Bot: At what time would you like to dine?  
+> User: 7 PM  
+> Bot: Lastly, I need your phone number so I can send you my findings.  
+> User: 3473305867  
+> Bot: You're all set! Indian cuisine suggestions at New York will be sent to your phone shortly. Have a great day!  
 
 The User then receives the following text on his/her mobile phone:
 
